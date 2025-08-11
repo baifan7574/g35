@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://35.nbfive.com/sitemap.xml
+Sitemap: https://g35.nbfive.com/sitemap.xml
